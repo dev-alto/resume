@@ -1,0 +1,106 @@
+{
+    "basics": {
+      "name": "Jonnald Hernandez",
+      "label": "Student and Aspiring Software Engineer",
+      "image": "",
+      "email": "hernandez29@my.smccd.edu",
+      "phone": "(650) 703-0570",
+      "summary": "A passsionate programmer always willing to learn",
+      "location": {
+        "address": "27 San Miguel Ave",
+        "postalCode": "CA 94015",
+        "city": "Daly City",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "Jonnald Hernandez",
+        "url": "https://www.linkedin.com/in/jonnaldh/"
+      }]
+    },
+    "work": [{
+      "name": "S-SMART Summer Research Program",
+      "position": "Mobile and Computing Research Intern",
+      "url": "",
+      "startDate": "2024-06-11",
+      "endDate": "2024-07-28",
+      "summary": "Research internship supported by SFSU and local community colleges for community college students to gain research and engineering experience",
+      "highlights": [
+        "Learned the fundamentals of machine learning, such as forward/backward propagation, matrix manipulation, and optimization",
+        "Developed and trained a large language model with Mistral 7b named Tutor.ai with a team of interns and mentor",
+        "Pre-processed textbook and class-specific data into Tutor.ai for end-users in class",
+        "Designed a website for Tutor.ai, using technologies such as React and HTML/CSS."
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Skyline Computer Science Club",
+      "position": "Vice President",
+      "url": "https://www.skycs.club/home",
+      "startDate": "2024-08-14",
+      "endDate": "Present",
+      "summary": "Take on the same responsibilities of the president, such as overseeing club operations, planning club events, recruiting members, and collaborating with other clubs.",
+      "highlights": [
+        "Developed the Skyline Computer Science Club website with the club officers, using technologies such as React and Node.js"
+      ]
+    }],
+    "education": [{
+      "institution": "Skyline College",
+      "url": "https://www.skylinecollege.edu",
+      "area": "Computer Science",
+      "studyType": "Associates of Science for Transfer",
+      "startDate": "2023-08-14",
+      "endDate": "2026-05-25",
+      "score": "3.72",
+      "courses": [
+        "COMP 252 - Intro to Object-Oriented Programming: C++",
+        "MATH 211 - Intro to Data Science (Python)"
+      ]
+    }],
+    "awards": [{
+      "title": "1st Place: Skyline Datathon",
+      "date": "2023-10-06",
+      "awarder": "Skyline College MESA",
+      "summary": "Won first place with a team of 6 members by designing an analytical project to recommend road safety changes based on a given crash dataset. Analyzed and made meaning of crash data in California by county, obtaining numerical and visual insights using the Python libraries: pandas, NumPy, and Matplotlib."
+    },
+    {
+      "title": "IMMERSE IN STEM",
+      "date": "2023-10-06",
+      "awarder": "National Science Foundation",
+      "summary": "Test Description 123"
+    }
+   ],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+
+    }],
+    "skills": [{
+      "name": "Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Python",
+        "C++"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "projects": [{
+      "name": "Snake Game",
+      "startDate": "2024-08-09",
+      "endDate": "2024-08-20",
+      "description": "Developed a snake game using Python and tkinter, showing proficiency in class-oriented/functional programming, and code design",
+      "highlights": [
+        "Placeholder"
+      ],
+      "url": "https://github.com/jonnald0430/snake_game"
+    }]
+  }
